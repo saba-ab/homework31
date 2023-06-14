@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container button {
+  border: none;
+  padding: 10px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 10px;
+  cursor: inherit;
+}
+
+#alert:hover {
+  background-color: rgb(45, 40, 40);
+  scale: 1.1;
+}
